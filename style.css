@@ -1,0 +1,22 @@
+#quote-box {
+  text-align: center;
+  max-width: 400px;
+  margin: 20px auto;
+  overflow: auto;
+  min-height: 300px;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+#text {
+  font-style: italic;
+}
+
+#author {
+  margin-bottom: 20px;
+}
+
+#new-quote, #tweet-quote {
+  padding: 5px;
+  margin: 20px 5px;
+}
